@@ -12,4 +12,4 @@ http://ikaros-521.gitee.io/html_login_register/register.html
 
 如需编译后端程序，在cgi-bin目录下执行 make命令即可。（linux、gcc）
 
-<img src="https://img-blog.csdnimg.cn/20210118110622970.gif" width="500" />
+<img src="https://img-blog.csdnimg.cn/20210118110622970.gif"/>
